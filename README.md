@@ -1,6 +1,6 @@
 # SI-GuidedProject-7196-1640667240
 
-PROJECT TITLE: Time Series Analysis and Sales Forecasting for Automotive Using IBM Cloud Services\
+PROJECT TITLE: Time Series Analysis and Sales Forecasting for Automotive Using IBM Cloud Services
 
 TEAM MEMBERS: 
 1. Krishan Kumar Gupta-19BAI10114
